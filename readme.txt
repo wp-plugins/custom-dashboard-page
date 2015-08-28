@@ -1,12 +1,12 @@
 === Custom Dashboard Page ===
 
-Contributors: Md. Muntasir Rahman
+Contributors: raficsedu
 Author URI: http://myplugin.tophostbd.com/
 Plugin URI: http://myplugin.tophostbd.com/
 Tags: dashboard,custom dashboard,dashboard page, metaboxe, metaboxes, customization, administration, panel
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: cdpp
+Tested up to: 4.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: http://myplugin.tophostbd.com/

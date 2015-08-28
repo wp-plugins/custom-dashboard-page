@@ -4,7 +4,7 @@ Plugin Name: Custom Dashboard Page
 Plugin URL: http://myplugin.tophostbd.com/
 Description: Custom dashboard plugin will display a specific page into dashboard .
 Version: 1.0
-Author: Md. Muntasir Rahman
+Author: raficsedu
 Author URI: http://myplugin.tophostbd.com/
 Contributors: raficsedu
 Text Domain: cdpp
